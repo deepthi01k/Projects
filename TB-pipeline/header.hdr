@@ -1,0 +1,6 @@
+##INFO=<ID=GeneID,Number=1,Type=Integer,Description="Feature_ID">
+##INFO=<ID=Locus_tag,Number=1,Type=String,Description="Locus">
+##INFO=<ID=Strand,Number=1,Type=String,Description="Strand">
+##INFO=<ID=Length,Number=1,Type=Integer,Description="Length">
+##INFO=<ID=Gene,Number=1,Type=String,Description="Gene">
+##INFO=<ID=Protein_Name,Number=1,Type=String,Description="Product">
